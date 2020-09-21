@@ -1,0 +1,24 @@
+Season:
+Age:
+Tm: Team
+Pos: time of possession team
+G:
+GS: games played
+MP:
+FG: the total number of filed goals made. FG = 2PT + 3 PT
+FGA: the total number of filed goals attempted. FGA = 2PtA + 3PtA
+FG%: field goal percentage
+3P: the number of 3 point shot made
+3PA: the number of 3 point shot attempts
+3P%: the percentage of 3 point shot made, 3Pt% = (3Pt/3PtA) * 100
+FT: the number of free throws made.
+FTA: the number of free throws attempts.
+FT%: the percentage of free throws made, FT% = (FT / FTA) x 100
+ORB: the number of offensive rebounds
+TRB: the total number of rebounds, Total Reb = Off Reb + Def Reb
+AST: the number of assists
+STL: the number of steals by a defensive player or team
+BLK: the number of blocks by a defensive player or team
+TOV: the number of turnovers
+PF: personal fouls
+PTS:  the total number of points scored by field goals and free throws, Pts = 2 x 2Pt + 3 x 3Pt + FT
